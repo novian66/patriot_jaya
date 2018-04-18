@@ -22,3 +22,4 @@
   <script type="text/javascript" src="scripts/shBrushPhp.js"></script>
   <!-- Template Core JS -->
   <script src="js/custom.js"></script>
+  <script src="js/summernote/dist/summernote.js">></script>

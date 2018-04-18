@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="author" content="ScriptsBundle">
-  <title>Knowledge Q&A Dashboard Template</title>
+  <title>Patriot Jaya</title>
   <!-- =-=-=-=-=-=-= Favicons Icon =-=-=-=-=-=-= -->
   <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
   <!-- =-=-=-=-=-=-= Mobile Specific =-=-=-=-=-=-= -->
@@ -26,6 +26,7 @@
   <link type="text/css" rel="stylesheet" href="css/animate.min.css" />
   <!-- =-=-=-=-=-=-= Hover Dropdown =-=-=-=-=-=-= -->
   <link type="text/css" rel="stylesheet" href="css/bootstrap-dropdownhover.min.css" />
+  <link href="js/summernote/dist/summernote.css" rel="stylesheet">
   <!-- JavaScripts -->
   <script src="js/modernizr.js"></script>
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
